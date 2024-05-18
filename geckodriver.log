@@ -1,0 +1,58 @@
+1712688929059	geckodriver	INFO	Listening on 127.0.0.1:50788
+1712688929455	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/Use ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/c0nswn_s4sg8t8hz1thvn84c0000gn/T/rust_mozprofileQhmwS4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712688933654	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1712688933885	Marionette	INFO	Listening on port 50799
+WebDriver BiDi listening on ws://127.0.0.1:50789
+Read port: 50799
+1712688934039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:50789/devtools/browser/a055d9d1-5def-4ffd-9b92-d95dd032b539
+1712688935575	Marionette	INFO	Stopped listening on port 50799
+1712688936982	geckodriver	INFO	Listening on 127.0.0.1:50816
+1712688937491	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/Use ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/c0nswn_s4sg8t8hz1thvn84c0000gn/T/rust_mozprofilehabkY5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712688937675	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1712688937838	Marionette	INFO	Listening on port 50824
+WebDriver BiDi listening on ws://127.0.0.1:50817
+Read port: 50824
+1712688937970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:50817/devtools/browser/caf6ed93-c211-47c0-9ca6-d20be90e9447
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1712688941756	Marionette	INFO	Stopped listening on port 50824
+JavaScript warning: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=MYt6ZTcxPTSOwyUF4RreR4ad2_g, line 2: Script terminated by timeout at:
+@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=MYt6ZTcxPTSOwyUF4RreR4ad2_g:2:3789
+@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=MYt6ZTcxPTSOwyUF4RreR4ad2_g:2:220
+@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=MYt6ZTcxPTSOwyUF4RreR4ad2_g:2:225
+
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=Br6UWCrqZUB74-7MhdGWjKlzW5w, line 4: ReferenceError: jQuery is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/lib/kendo/2020.1.406/js/messages/kendo.messages.en-US.min.js?v=V63nbEcXAnI3r6OQYknz7NI-xgk, line 16: TypeError: window.kendo is undefined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 6: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: kendo is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://admin-demo.nopcommerce.com/admin/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined

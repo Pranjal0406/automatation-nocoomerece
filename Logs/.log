@@ -1,0 +1,232 @@
+04/30/2024 06:24:24 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 06:24:28 PM: INFO: **************** Login Successful ****************
+04/30/2024 06:24:28 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 06:24:31 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 06:24:36 PM: INFO: ************ Saving all customer info *************** 
+04/30/2024 06:24:36 PM: INFO: **************** Add customer details validation started ***************
+04/30/2024 06:24:37 PM: INFO: ************* Ending Customer Test case TC003
+05/01/2024 01:44:48 PM: INFO: *************** Test case add customers starting **************
+05/01/2024 01:44:54 PM: INFO: **************** Login Successful ****************
+05/01/2024 01:44:54 PM: INFO: ***************** Start Adding Customers ****************
+05/01/2024 01:44:57 PM: INFO: **************** Start adding customer details *********************
+05/01/2024 01:45:02 PM: INFO: ************ Saving all customer info *************** 
+05/01/2024 01:45:02 PM: INFO: **************** Add customer details validation started ***************
+05/01/2024 01:45:03 PM: INFO: ************* Ending Customer Test case TC003
+05/02/2024 05:44:03 PM: INFO: **************** Search Customer By Email
+05/02/2024 05:44:08 PM: INFO: **************** Login Successful *************
+05/02/2024 05:44:08 PM: INFO: ******************** Start searching the customers 
+05/02/2024 05:45:54 PM: INFO: **************** Search Customer By Email
+05/02/2024 05:45:58 PM: INFO: **************** Login Successful *************
+05/02/2024 05:45:58 PM: INFO: ******************** Start searching the customers 
+05/02/2024 05:50:13 PM: INFO: **************** Search Customer By Email
+05/02/2024 05:50:19 PM: INFO: **************** Login Successful *************
+05/02/2024 05:50:19 PM: INFO: ******************** Start searching the customers 
+05/02/2024 05:51:15 PM: INFO: *************** Test case add customers starting **************
+05/02/2024 05:51:19 PM: INFO: **************** Login Successful ****************
+05/02/2024 05:51:19 PM: INFO: ***************** Start Adding Customers ****************
+05/02/2024 08:17:10 PM: INFO: **************** Search Customer By Email
+05/02/2024 08:17:17 PM: INFO: **************** Login Successful *************
+05/02/2024 08:17:17 PM: INFO: ******************** Start searching the customers 
+05/02/2024 08:20:43 PM: INFO: **************** Search Customer By Email
+05/02/2024 08:20:48 PM: INFO: **************** Login Successful *************
+05/02/2024 08:20:48 PM: INFO: ******************** Start searching the customers 
+05/02/2024 08:21:52 PM: INFO: **************** Search Customer By Email
+05/02/2024 08:21:58 PM: INFO: **************** Login Successful *************
+05/02/2024 08:21:58 PM: INFO: ******************** Start searching the customers 
+05/02/2024 08:22:18 PM: INFO: **************** Search Customer By Email
+05/02/2024 08:22:23 PM: INFO: **************** Login Successful *************
+05/02/2024 08:22:23 PM: INFO: ******************** Start searching the customers 
+05/02/2024 08:22:28 PM: INFO: ***************** Now Search Customer by email id 
+05/02/2024 08:22:42 PM: INFO: **************** Search Customer By Email
+05/02/2024 08:22:47 PM: INFO: **************** Login Successful *************
+05/02/2024 08:22:47 PM: INFO: ******************** Start searching the customers 
+05/02/2024 08:22:52 PM: INFO: ***************** Now Search Customer by email id 
+05/02/2024 10:53:23 PM: INFO: **************** Search Customer By Email
+05/02/2024 10:53:29 PM: INFO: **************** Login Successful *************
+05/02/2024 10:53:29 PM: INFO: ******************** Start searching the customers 
+05/02/2024 10:53:34 PM: INFO: ***************** Now Search Customer by email id 
+05/02/2024 11:41:24 PM: INFO: **************** Search Customer By Email *********************
+05/02/2024 11:41:29 PM: INFO: **************** Login Successful *************
+05/02/2024 11:41:29 PM: INFO: ******************** Start searching the customers 
+05/02/2024 11:41:35 PM: INFO: ***************** Now Search Customer by email id ******************** 
+05/02/2024 11:43:06 PM: INFO: **************** Search Customer By Email *********************
+05/02/2024 11:43:12 PM: INFO: **************** Login Successful *************
+05/02/2024 11:43:12 PM: INFO: ******************** Start searching the customers 
+05/02/2024 11:43:17 PM: INFO: ***************** Now Search Customer by email id ******************** 
+05/02/2024 11:50:15 PM: INFO: **************** Search Customer By Email *********************
+05/02/2024 11:50:19 PM: INFO: **************** Login Successful *************
+05/02/2024 11:50:19 PM: INFO: ******************** Start searching the customers 
+05/02/2024 11:50:25 PM: INFO: ***************** Now Search Customer by email id ******************** 
+05/02/2024 11:50:30 PM: INFO: ******************* Test case Passed Successfully I have find the customer by Email  
+05/06/2024 11:28:38 PM: INFO: **************** Search Customer By Email *********************
+05/06/2024 11:28:43 PM: INFO: **************** Login Successful *************
+05/06/2024 11:28:43 PM: INFO: ******************** Start searching the customers 
+05/06/2024 11:28:49 PM: INFO: ***************** Now Search Customer by name id ******************** 
+05/06/2024 11:28:54 PM: INFO: ******************* Test case Passed Successfully I have find the customer by Name 
+05/06/2024 11:33:03 PM: INFO: **************** Search Customer By Email *********************
+05/06/2024 11:33:07 PM: INFO: **************** Login Successful *************
+05/06/2024 11:33:07 PM: INFO: ******************** Start searching the customers 
+05/06/2024 11:33:13 PM: INFO: ***************** Now Search Customer by name id ******************** 
+05/06/2024 11:33:22 PM: INFO: ******************* Test case Passed Successfully I have find the customer by Name 
+05/08/2024 05:42:55 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 05:43:00 PM: INFO: **************** Login Successful ****************
+05/08/2024 05:43:00 PM: INFO: ***************** Start Adding Customers ****************
+05/08/2024 05:43:01 PM: INFO: **************** Start adding customer details *********************
+05/08/2024 05:51:57 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 05:52:01 PM: INFO: **************** Login Successful ****************
+05/08/2024 05:52:01 PM: INFO: ***************** Start Adding Customers ****************
+05/08/2024 05:52:02 PM: INFO: **************** Start adding customer details *********************
+05/08/2024 05:52:44 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 05:52:48 PM: INFO: **************** Login Successful ****************
+05/08/2024 05:52:48 PM: INFO: ***************** Start Adding Customers ****************
+05/08/2024 05:52:52 PM: INFO: **************** Start adding customer details *********************
+05/08/2024 05:55:26 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 05:55:29 PM: INFO: **************** Login Successful ****************
+05/08/2024 05:55:29 PM: INFO: ***************** Start Adding Customers ****************
+05/08/2024 05:55:32 PM: INFO: **************** Start adding customer details *********************
+05/08/2024 11:30:12 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:30:16 PM: INFO: **************** Login Successful ****************
+05/08/2024 11:30:16 PM: INFO: ***************** Start Adding Customers ****************
+05/08/2024 11:30:17 PM: INFO: **************** Start adding customer details *********************
+05/08/2024 11:37:01 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:37:04 PM: INFO: **************** Login Successful ****************
+05/08/2024 11:37:04 PM: INFO: ***************** Start Adding Customers ****************
+05/08/2024 11:37:06 PM: INFO: **************** Start adding customer details *********************
+05/08/2024 11:38:42 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:41:33 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:42:13 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:43:19 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:43:47 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:43:50 PM: INFO: **************** Login Successful ****************
+05/08/2024 11:43:50 PM: INFO: ***************** Start Adding Customers ****************
+05/08/2024 11:43:52 PM: INFO: **************** Start adding customer details *********************
+05/08/2024 11:43:59 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:44:21 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:45:53 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:45:56 PM: INFO: **************** Login Successful ****************
+05/08/2024 11:45:56 PM: INFO: ***************** Start Adding Customers ****************
+05/08/2024 11:45:58 PM: INFO: **************** Start adding customer details *********************
+05/08/2024 11:46:54 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:46:57 PM: INFO: **************** Login Successful ****************
+05/08/2024 11:46:57 PM: INFO: ***************** Start Adding Customers ****************
+05/08/2024 11:46:59 PM: INFO: **************** Start adding customer details *********************
+05/08/2024 11:47:06 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:49:31 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:49:34 PM: INFO: **************** Login Successful ****************
+05/08/2024 11:49:34 PM: INFO: ***************** Start Adding Customers ****************
+05/08/2024 11:49:36 PM: INFO: **************** Start adding customer details *********************
+05/08/2024 11:49:43 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:51:34 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:51:37 PM: INFO: **************** Login Successful ****************
+05/08/2024 11:51:37 PM: INFO: ***************** Start Adding Customers ****************
+05/08/2024 11:51:39 PM: INFO: **************** Start adding customer details *********************
+05/08/2024 11:51:46 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:52:02 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:52:05 PM: INFO: **************** Login Successful ****************
+05/08/2024 11:52:05 PM: INFO: ***************** Start Adding Customers ****************
+05/08/2024 11:52:07 PM: INFO: **************** Start adding customer details *********************
+05/08/2024 11:52:14 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:52:24 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:52:27 PM: INFO: **************** Login Successful ****************
+05/08/2024 11:52:27 PM: INFO: ***************** Start Adding Customers ****************
+05/08/2024 11:52:29 PM: INFO: **************** Start adding customer details *********************
+05/08/2024 11:52:36 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:53:06 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:53:09 PM: INFO: **************** Login Successful ****************
+05/08/2024 11:53:09 PM: INFO: ***************** Start Adding Customers ****************
+05/08/2024 11:53:11 PM: INFO: **************** Start adding customer details *********************
+05/08/2024 11:53:18 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:55:00 PM: INFO: *************** Test case add customers starting **************
+05/08/2024 11:55:03 PM: INFO: **************** Login Successful ****************
+05/08/2024 11:55:03 PM: INFO: ***************** Start Adding Customers ****************
+05/08/2024 11:55:05 PM: INFO: **************** Start adding customer details *********************
+05/08/2024 11:55:12 PM: INFO: *************** Test case add customers starting **************
+05/09/2024 12:00:12 AM: INFO: *************** Test case add customers starting **************
+05/09/2024 12:00:15 AM: INFO: **************** Login Successful ****************
+05/09/2024 12:00:15 AM: INFO: ***************** Start Adding Customers ****************
+05/09/2024 12:00:17 AM: INFO: **************** Start adding customer details *********************
+05/09/2024 12:00:24 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:14:04 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:14:07 AM: INFO: **************** Login Successful ****************
+05/10/2024 12:14:07 AM: INFO: ***************** Start Adding Customers ****************
+05/10/2024 12:14:09 AM: INFO: **************** Start adding customer details *********************
+05/10/2024 12:14:16 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:14:27 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:14:30 AM: INFO: **************** Login Successful ****************
+05/10/2024 12:14:30 AM: INFO: ***************** Start Adding Customers ****************
+05/10/2024 12:14:32 AM: INFO: **************** Start adding customer details *********************
+05/10/2024 12:14:39 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:19:56 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:19:59 AM: INFO: **************** Login Successful ****************
+05/10/2024 12:19:59 AM: INFO: ***************** Start Adding Customers ****************
+05/10/2024 12:20:01 AM: INFO: **************** Start adding customer details *********************
+05/10/2024 12:20:08 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:21:01 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:21:04 AM: INFO: **************** Login Successful ****************
+05/10/2024 12:21:04 AM: INFO: ***************** Start Adding Customers ****************
+05/10/2024 12:21:06 AM: INFO: **************** Start adding customer details *********************
+05/10/2024 12:21:33 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:24:20 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:24:23 AM: INFO: **************** Login Successful ****************
+05/10/2024 12:24:23 AM: INFO: ***************** Start Adding Customers ****************
+05/10/2024 12:24:25 AM: INFO: **************** Start adding customer details *********************
+05/10/2024 12:24:52 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:37:19 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:37:21 AM: INFO: **************** Login Successful ****************
+05/10/2024 12:37:21 AM: INFO: ***************** Start Adding Customers ****************
+05/10/2024 12:37:24 AM: INFO: **************** Start adding customer details *********************
+05/10/2024 12:37:49 AM: INFO: ************ Saving all customer info *************** 
+05/10/2024 12:37:49 AM: INFO: **************** Add customer details validation started ***************
+05/10/2024 12:37:49 AM: INFO: ************* Ending Customer Test case TC003
+05/10/2024 12:37:50 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:52:29 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:52:31 AM: INFO: **************** Login Successful ****************
+05/10/2024 12:52:31 AM: INFO: ***************** Start Adding Customers ****************
+05/10/2024 12:52:34 AM: INFO: **************** Start adding customer details *********************
+05/10/2024 12:52:41 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:54:50 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:54:53 AM: INFO: **************** Login Successful ****************
+05/10/2024 12:54:53 AM: INFO: ***************** Start Adding Customers ****************
+05/10/2024 12:54:55 AM: INFO: **************** Start adding customer details *********************
+05/10/2024 12:55:03 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:55:45 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:55:48 AM: INFO: **************** Login Successful ****************
+05/10/2024 12:55:48 AM: INFO: ***************** Start Adding Customers ****************
+05/10/2024 12:55:50 AM: INFO: **************** Start adding customer details *********************
+05/10/2024 12:58:59 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:59:01 AM: INFO: **************** Login Successful ****************
+05/10/2024 12:59:01 AM: INFO: ***************** Start Adding Customers ****************
+05/10/2024 12:59:04 AM: INFO: **************** Start adding customer details *********************
+05/10/2024 12:59:26 AM: INFO: *************** Test case add customers starting **************
+05/10/2024 12:59:28 AM: INFO: **************** Login Successful ****************
+05/10/2024 12:59:28 AM: INFO: ***************** Start Adding Customers ****************
+05/10/2024 12:59:31 AM: INFO: **************** Start adding customer details *********************
+05/10/2024 12:59:36 AM: INFO: ************ Saving all customer info *************** 
+05/10/2024 12:59:36 AM: INFO: **************** Add customer details validation started ***************
+05/10/2024 12:59:37 AM: INFO: ************* Ending Customer Test case TC003
+05/12/2024 08:51:38 AM: INFO: *************** Test case add customers starting **************
+05/12/2024 08:51:42 AM: INFO: **************** Login Successful ****************
+05/12/2024 08:51:42 AM: INFO: ***************** Start Adding Customers ****************
+05/12/2024 08:51:44 AM: INFO: **************** Start adding customer details *********************
+05/12/2024 08:51:49 AM: INFO: ************ Saving all customer info *************** 
+05/12/2024 08:51:49 AM: INFO: **************** Add customer details validation started ***************
+05/12/2024 08:51:50 AM: INFO: ************* Ending Customer Test case TC003
+05/12/2024 08:54:16 AM: INFO: **************** Search Customer By Email *********************
+05/12/2024 08:54:21 AM: INFO: **************** Login Successful *************
+05/12/2024 08:54:21 AM: INFO: ******************** Start searching the customers 
+05/12/2024 08:54:27 AM: INFO: ***************** Now Search Customer by email id ******************** 
+05/12/2024 08:54:32 AM: INFO: ******************* Test case Passed Successfully I have find the customer by Email  
+05/13/2024 04:32:35 PM: INFO: *************** Test case add customers starting **************
+05/13/2024 04:32:38 PM: INFO: **************** Login Successful ****************
+05/13/2024 04:32:38 PM: INFO: ***************** Start Adding Customers ****************
+05/13/2024 04:32:40 PM: INFO: **************** Start adding customer details *********************
+05/13/2024 04:32:45 PM: INFO: ************ Saving all customer info *************** 
+05/13/2024 04:32:45 PM: INFO: **************** Add customer details validation started ***************
+05/13/2024 04:32:46 PM: INFO: ************* Ending Customer Test case TC003
+05/13/2024 04:33:55 PM: INFO: *************** Test case add customers starting **************
+05/13/2024 04:33:59 PM: INFO: **************** Login Successful ****************
+05/13/2024 04:33:59 PM: INFO: ***************** Start Adding Customers ****************
+05/13/2024 04:34:02 PM: INFO: **************** Start adding customer details *********************
+05/13/2024 04:34:07 PM: INFO: ************ Saving all customer info *************** 
+05/13/2024 04:34:07 PM: INFO: **************** Add customer details validation started ***************
+05/13/2024 04:34:07 PM: INFO: ************* Ending Customer Test case TC003

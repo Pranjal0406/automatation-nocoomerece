@@ -1,0 +1,183 @@
+04/24/2024 07:52:35 AM: INFO: ***************  Test Data ddt Login ****************
+04/24/2024 07:52:35 AM: INFO: ***************  Verifying test data ddt test case  ******************
+04/24/2024 07:52:43 AM: INFO: Test case Passed
+04/24/2024 07:57:49 AM: INFO: ***************  Test Data ddt Login ****************
+04/24/2024 07:57:49 AM: INFO: ***************  Verifying test data ddt test case  ******************
+04/24/2024 07:57:57 AM: INFO: Test case Passed
+04/24/2024 08:05:30 AM: INFO: ***************  Test Data ddt Login ****************
+04/24/2024 08:05:30 AM: INFO: ***************  Verifying test data ddt test case  ******************
+04/24/2024 08:05:37 AM: INFO: Test case Passed
+04/24/2024 08:05:44 AM: INFO: Test case Passed
+04/24/2024 08:05:50 AM: INFO: Test case Passed
+04/24/2024 08:05:55 AM: INFO: Test case Passed
+04/24/2024 08:05:55 AM: INFO: ******Login DDT test Case is Passed *********
+04/24/2024 08:05:56 AM: INFO: ************ End of the data driven Test *************
+04/24/2024 08:05:56 AM: INFO: *********** Completed First datadriven test case 
+04/29/2024 05:14:37 PM: INFO: *************** Test case add customers starting **************
+04/29/2024 05:14:41 PM: INFO: **************** Login Successful ****************
+04/29/2024 05:14:41 PM: INFO: ***************** Start Adding Customers ****************
+04/29/2024 05:15:28 PM: INFO: *************** Test case add customers starting **************
+04/29/2024 05:15:31 PM: INFO: **************** Login Successful ****************
+04/29/2024 05:15:31 PM: INFO: ***************** Start Adding Customers ****************
+04/29/2024 05:16:00 PM: INFO: *************** Test case add customers starting **************
+04/29/2024 05:16:03 PM: INFO: **************** Login Successful ****************
+04/29/2024 05:16:03 PM: INFO: ***************** Start Adding Customers ****************
+04/29/2024 05:20:16 PM: INFO: *************** Test case add customers starting **************
+04/29/2024 05:20:19 PM: INFO: **************** Login Successful ****************
+04/29/2024 05:20:19 PM: INFO: ***************** Start Adding Customers ****************
+04/29/2024 05:23:06 PM: INFO: *************** Test case add customers starting **************
+04/29/2024 05:23:09 PM: INFO: **************** Login Successful ****************
+04/29/2024 05:23:09 PM: INFO: ***************** Start Adding Customers ****************
+04/29/2024 05:27:24 PM: INFO: *************** Test case add customers starting **************
+04/29/2024 05:27:29 PM: INFO: **************** Login Successful ****************
+04/29/2024 05:27:29 PM: INFO: ***************** Start Adding Customers ****************
+04/29/2024 05:32:42 PM: INFO: *************** Test case add customers starting **************
+04/29/2024 05:32:45 PM: INFO: **************** Login Successful ****************
+04/29/2024 05:32:45 PM: INFO: ***************** Start Adding Customers ****************
+04/29/2024 05:32:48 PM: INFO: **************** Start adding customer details *********************
+04/29/2024 05:33:17 PM: INFO: *************** Test case add customers starting **************
+04/29/2024 05:33:21 PM: INFO: **************** Login Successful ****************
+04/29/2024 05:33:21 PM: INFO: ***************** Start Adding Customers ****************
+04/29/2024 05:33:24 PM: INFO: **************** Start adding customer details *********************
+04/29/2024 05:36:46 PM: INFO: *************** Test case add customers starting **************
+04/29/2024 05:36:49 PM: INFO: **************** Login Successful ****************
+04/29/2024 05:36:49 PM: INFO: ***************** Start Adding Customers ****************
+04/29/2024 05:36:51 PM: INFO: **************** Start adding customer details *********************
+04/29/2024 05:43:14 PM: INFO: *************** Test case add customers starting **************
+04/29/2024 05:43:16 PM: INFO: **************** Login Successful ****************
+04/29/2024 05:43:16 PM: INFO: ***************** Start Adding Customers ****************
+04/29/2024 05:43:19 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 03:20:24 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 03:20:33 PM: INFO: **************** Login Successful ****************
+04/30/2024 03:20:33 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 03:20:38 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 03:48:42 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 03:48:46 PM: INFO: **************** Login Successful ****************
+04/30/2024 03:48:46 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 03:48:52 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 03:50:59 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 03:51:04 PM: INFO: **************** Login Successful ****************
+04/30/2024 03:51:04 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 03:51:07 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 03:51:09 PM: INFO: ************ Saving all customer info *************** 
+04/30/2024 03:51:09 PM: INFO: **************** Add customer details validation started ***************
+04/30/2024 03:51:11 PM: ERROR: ********** Add Customers details failed to save
+04/30/2024 04:01:23 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 04:01:29 PM: INFO: **************** Login Successful ****************
+04/30/2024 04:01:29 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 04:01:32 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 04:01:34 PM: INFO: ************ Saving all customer info *************** 
+04/30/2024 04:01:34 PM: INFO: **************** Add customer details validation started ***************
+04/30/2024 04:01:35 PM: ERROR: ********** Add Customers details failed to save
+04/30/2024 04:03:48 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 04:03:53 PM: INFO: **************** Login Successful ****************
+04/30/2024 04:03:53 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 04:03:57 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 04:03:59 PM: INFO: ************ Saving all customer info *************** 
+04/30/2024 04:03:59 PM: INFO: **************** Add customer details validation started ***************
+04/30/2024 04:04:00 PM: ERROR: ********** Add Customers details failed to save
+04/30/2024 04:04:00 PM: INFO: ************* Ending Customer Test case TC003
+04/30/2024 04:12:59 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 04:13:35 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 04:13:41 PM: INFO: **************** Login Successful ****************
+04/30/2024 04:13:41 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 04:13:45 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 04:13:48 PM: INFO: ************ Saving all customer info *************** 
+04/30/2024 04:13:48 PM: INFO: **************** Add customer details validation started ***************
+04/30/2024 04:13:48 PM: ERROR: ********** Add Customers details failed to save
+04/30/2024 04:13:48 PM: INFO: ************* Ending Customer Test case TC003
+04/30/2024 04:21:44 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 04:21:48 PM: INFO: **************** Login Successful ****************
+04/30/2024 04:21:48 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 04:21:52 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 04:21:54 PM: INFO: ************ Saving all customer info *************** 
+04/30/2024 04:21:54 PM: INFO: **************** Add customer details validation started ***************
+04/30/2024 04:21:55 PM: ERROR: ********** Add Customers details failed to save
+04/30/2024 04:21:55 PM: INFO: ************* Ending Customer Test case TC003
+04/30/2024 04:22:52 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 04:22:56 PM: INFO: **************** Login Successful ****************
+04/30/2024 04:22:56 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 04:22:59 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 04:23:01 PM: INFO: ************ Saving all customer info *************** 
+04/30/2024 04:23:01 PM: INFO: **************** Add customer details validation started ***************
+04/30/2024 04:23:02 PM: ERROR: ********** Add Customers details failed to save
+04/30/2024 04:23:02 PM: INFO: ************* Ending Customer Test case TC003
+04/30/2024 04:23:21 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 04:23:24 PM: INFO: **************** Login Successful ****************
+04/30/2024 04:23:24 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 04:23:26 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 04:23:28 PM: INFO: ************ Saving all customer info *************** 
+04/30/2024 04:23:28 PM: INFO: **************** Add customer details validation started ***************
+04/30/2024 04:23:28 PM: INFO: ************* Ending Customer Test case TC003
+04/30/2024 04:59:18 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 04:59:25 PM: INFO: **************** Login Successful ****************
+04/30/2024 04:59:25 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 04:59:29 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 04:59:51 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 04:59:56 PM: INFO: **************** Login Successful ****************
+04/30/2024 04:59:56 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 05:00:09 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 05:00:13 PM: INFO: **************** Login Successful ****************
+04/30/2024 05:00:13 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 05:00:18 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 05:00:20 PM: INFO: ************ Saving all customer info *************** 
+04/30/2024 05:00:20 PM: INFO: **************** Add customer details validation started ***************
+04/30/2024 05:00:21 PM: INFO: ************* Ending Customer Test case TC003
+04/30/2024 05:02:37 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 05:02:41 PM: INFO: **************** Login Successful ****************
+04/30/2024 05:02:41 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 05:02:45 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 05:02:47 PM: INFO: ************ Saving all customer info *************** 
+04/30/2024 05:02:47 PM: INFO: **************** Add customer details validation started ***************
+04/30/2024 05:02:48 PM: INFO: ************* Ending Customer Test case TC003
+04/30/2024 05:03:19 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 05:03:24 PM: INFO: **************** Login Successful ****************
+04/30/2024 05:03:24 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 05:03:30 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 05:03:34 PM: INFO: ************ Saving all customer info *************** 
+04/30/2024 05:03:34 PM: INFO: **************** Add customer details validation started ***************
+04/30/2024 05:03:35 PM: ERROR: ********** Add Customers details failed to save
+04/30/2024 05:03:35 PM: INFO: ************* Ending Customer Test case TC003
+04/30/2024 05:04:16 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 05:04:25 PM: INFO: **************** Login Successful ****************
+04/30/2024 05:04:25 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 05:04:29 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 05:04:35 PM: INFO: ************ Saving all customer info *************** 
+04/30/2024 05:04:35 PM: INFO: **************** Add customer details validation started ***************
+04/30/2024 05:04:36 PM: INFO: ************* Ending Customer Test case TC003
+04/30/2024 05:06:04 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 05:06:10 PM: INFO: **************** Login Successful ****************
+04/30/2024 05:06:10 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 05:06:13 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 05:06:19 PM: INFO: ************ Saving all customer info *************** 
+04/30/2024 05:06:19 PM: INFO: **************** Add customer details validation started ***************
+04/30/2024 05:06:19 PM: INFO: ************* Ending Customer Test case TC003
+04/30/2024 05:07:06 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 05:07:11 PM: INFO: **************** Login Successful ****************
+04/30/2024 05:07:11 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 05:07:14 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 05:07:19 PM: INFO: ************ Saving all customer info *************** 
+04/30/2024 05:07:19 PM: INFO: **************** Add customer details validation started ***************
+04/30/2024 05:07:19 PM: INFO: ************* Ending Customer Test case TC003
+04/30/2024 05:08:17 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 05:08:21 PM: INFO: **************** Login Successful ****************
+04/30/2024 05:08:21 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 05:08:24 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 05:08:29 PM: INFO: ************ Saving all customer info *************** 
+04/30/2024 05:08:29 PM: INFO: **************** Add customer details validation started ***************
+04/30/2024 05:08:30 PM: INFO: ************* Ending Customer Test case TC003
+04/30/2024 05:09:27 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 05:09:34 PM: INFO: **************** Login Successful ****************
+04/30/2024 05:09:34 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 05:09:37 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 05:09:44 PM: INFO: ************ Saving all customer info *************** 
+04/30/2024 05:09:44 PM: INFO: **************** Add customer details validation started ***************
+04/30/2024 05:09:44 PM: INFO: ************* Ending Customer Test case TC003
+04/30/2024 05:24:51 PM: INFO: *************** Test case add customers starting **************
+04/30/2024 05:24:55 PM: INFO: **************** Login Successful ****************
+04/30/2024 05:24:55 PM: INFO: ***************** Start Adding Customers ****************
+04/30/2024 05:25:00 PM: INFO: **************** Start adding customer details *********************
+04/30/2024 05:25:05 PM: INFO: ************ Saving all customer info *************** 
+04/30/2024 05:25:05 PM: INFO: **************** Add customer details validation started ***************
+04/30/2024 05:25:05 PM: ERROR: ********** Add Customers details failed to save
+04/30/2024 05:25:05 PM: INFO: ************* Ending Customer Test case TC003
