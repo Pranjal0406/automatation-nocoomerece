@@ -230,3 +230,22 @@
 05/13/2024 04:34:07 PM: INFO: ************ Saving all customer info *************** 
 05/13/2024 04:34:07 PM: INFO: **************** Add customer details validation started ***************
 05/13/2024 04:34:07 PM: INFO: ************* Ending Customer Test case TC003
+06/10/2024 11:45:09 PM: INFO: ***************  test_homePageTitle  ******************
+06/10/2024 11:45:09 PM: INFO: ***************** Verify Home Page title *******************
+06/10/2024 11:45:10 PM: INFO: ***************** First test case passed  *******************
+06/10/2024 11:45:12 PM: INFO: ***************  test_Login  ******************
+06/10/2024 11:45:15 PM: INFO: ***************** SecondTest Case Passed  *******************
+06/11/2024 10:56:12 PM: INFO: ***************  test_homePageTitle  ******************
+06/11/2024 10:56:12 PM: INFO: ***************** Verify Home Page title *******************
+06/11/2024 10:56:16 PM: INFO: ***************** First test case passed  *******************
+06/11/2024 10:56:17 PM: INFO: ***************  test_Login  ******************
+06/11/2024 10:56:25 PM: INFO: ***************** SecondTest Case Passed  *******************
+06/11/2024 11:26:19 PM: INFO: ***************  test_homePageTitle  ******************
+06/11/2024 11:26:19 PM: INFO: ***************** Verify Home Page title *******************
+06/11/2024 11:26:21 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /session/128ac6071fd5bacaa573c1e17e10e0df/title
+06/11/2024 11:26:21 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105303ad0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/128ac6071fd5bacaa573c1e17e10e0df/title
+06/11/2024 11:26:21 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1053587d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/128ac6071fd5bacaa573c1e17e10e0df/title
+06/11/2024 11:26:23 PM: INFO: ***************  test_Login  ******************
+06/11/2024 11:53:08 PM: INFO: ***************  test_homePageTitle  ******************
+06/11/2024 11:53:08 PM: INFO: ***************** Verify Home Page title *******************
+06/11/2024 11:53:11 PM: INFO: ***************  test_Login  ******************
